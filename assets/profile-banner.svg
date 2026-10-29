@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Kendall E. Matthews. Decide what matters. Go build the proof.</title>
+<desc id="desc">Dark navy executive portfolio banner with a restrained gold accent and the words Strategy, Technology, People, Execution.</desc>
+<rect width="1200" height="300" rx="14" fill="#172437"/>
+<path d="M0 282H1200" stroke="#2d4258" stroke-width="2"/>
+<rect x="64" y="55" width="52" height="5" rx="2.5" fill="#E6B35F"/>
+<text x="64" y="92" fill="#CAD7E3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="3">KENDALL E. MATTHEWS</text>
+<text x="64" y="153" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Decide what matters.</text>
+<text x="64" y="204" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Go build the proof.</text>
+<text x="64" y="258" fill="#D4DEE7" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="0.4">STRATEGY   ·   TECHNOLOGY   ·   PEOPLE   ·   EXECUTION</text>
+<g fill="none" stroke="#6F859B" stroke-width="2" opacity="0.45"><circle cx="1030" cy="117" r="45"/><circle cx="1030" cy="117" r="76"/><circle cx="1030" cy="117" r="107"/><path d="M1030 10V224M923 117H1137"/></g>
+<circle cx="1030" cy="117" r="9" fill="#E6B35F"/>
+</svg>
