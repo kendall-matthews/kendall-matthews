@@ -1,41 +1,41 @@
-# Hi, I'm Kendall.
+[![Kendall E. Matthews | Decide what matters. Go build the proof.](assets/profile-banner.svg)](https://kendallmatthews.com/selected-work-results/)
 
-**Executive leadership | Strategy, technology, people & measurable execution**
+## Hi, I'm Kendall.
 
-I work at the intersection of business strategy, technology, and the people responsible for turning decisions into results. My background includes more than 15 years leading marketing, product marketing, go-to-market, and operations across cybersecurity, SaaS, eCommerce, and AI automation.
+I've spent more than 15 years leading marketing teams, go-to-market work, and operations across cybersecurity, SaaS, eCommerce, and AI automation. I have owned budgets, developed teams, and worked across functions and regions. What interests me most is the decision behind the work: **What needs to change, who owns it, and how will we know whether it worked?**
 
-I've served as Vice President of Global Marketing, Head of Marketing, and Global Campaigns & Product Marketing Director. Across those roles, I've built teams, managed budgets, coordinated work across regions, and connected business priorities to execution.
+That question is why I build and test AI-assisted tools. Not to collect another stack of software, but to challenge assumptions, improve decisions, and make useful work repeatable.
 
-This GitHub is where I share selected tools, experiments, and methods you can inspect and challenge. Sometimes technology is the answer. Sometimes the better move is to fix the decision, process, or handoff first.
+### Work you can inspect
 
-## Work you can explore
+**[Second-Pass Audit](https://github.com/kendall-matthews/second-pass-audit)**  
+*Check important AI-assisted work against its sources before deciding what to ship.*
 
-**[Second-Pass Audit](https://github.com/kendall-matthews/second-pass-audit)**
+I turned a practical review problem into a reusable method: compare the output with the source, find material gaps, correct and recheck, then decide **SHIP / REVISE / HOLD**. The repository includes the instructions, examples, and limitations. It is a working method, not a guarantee of correctness.
 
-A source-grounded method for reviewing consequential AI-assisted work. Compare an output with the governing sources, identify material gaps, correct them, recheck, and decide whether to **SHIP / REVISE / HOLD**. The public repository includes the reusable method, examples, and limitations.
+**[AI Buyer Simulator: I Built One, Then Realized I Rigged the Test](https://kendallmatthews.com/ai-buyer-simulator-loop-marketing-test/)**  
+*An experiment in testing messaging without mistaking AI-generated reactions for customer evidence.*
 
-**[AI Buyer Simulator: I Built One, Then Realized I Rigged the Test](https://kendallmatthews.com/ai-buyer-simulator-loop-marketing-test/)**
+The first version reflected too many of my own assumptions. I documented that flaw and revised the approach. The case study explains what changed and why. It is a published experiment, not a public code repository or proof of buyer validation.
 
-I built a buyer-message rehearsal tool, recognized that my assumptions biased its responses, and changed the approach. The published experiment documents the mistake and correction. Simulated buyer reactions can challenge messaging; they do not replace customer evidence. This is a case study, not a public code repository.
+### Leadership and results
 
-## Leadership and results
+My GitHub projects show how I test ideas. My professional work shows how I lead their execution.
 
-- **Global execution:** At Futurex, lead product positioning and integrated go-to-market work, coordinating regional marketing managers, social media, and outside agencies across international markets.
-- **Measurable improvement:** At ElectroNeek, led acquisition and campaign optimization that reduced North American cost per lead from **$124 to $22 in five months**. Owned the marketing budget and supervised **15+ global remote team members**.
-- **Building teams:** At AppointmentPlus (now DaySmart), grew the marketing organization from **two to 12 direct reports**, with responsibility for budgets, acquisition, conversion, and team priorities.
+- **Global coordination:** As Global Campaigns & Product Marketing Director at Futurex, I lead positioning and integrated go-to-market work, coordinating regional marketing managers, social media, and agencies across international markets.
+- **Acquisition performance:** As Head of Marketing at ElectroNeek, I helped reduce North American cost per lead from **$124 to $22 in five months** through campaign and channel optimization, while supervising **15+ global remote team members**.
+- **Team building:** As Vice President of Global Marketing & Communication at AppointmentPlus (now DaySmart), I grew the marketing organization from **two to 12 direct reports** and managed marketing priorities and budgets.
 
-These examples reflect different types of evidence. The [Selected Work & Results](https://kendallmatthews.com/selected-work-results/) page adds context and distinguishes directly measured marketing results from broader company performance.
+Those are different kinds of evidence. My [Selected Work & Results](https://kendallmatthews.com/selected-work-results/) page explains the responsibilities, figures, and attribution in more detail.
 
-## How I think
+### How I approach the work
 
-**Learn → Apply → Transform.**
+**Learn → Apply → Transform.** Learn enough to make a responsible decision. Apply the smallest useful change. Make it repeatable when the evidence supports doing so.
 
-Understand the problem well enough to decide. Apply a practical change to real work. Make it repeatable when the evidence supports doing so.
+A tool is useful when it helps the people doing the work. Otherwise, it's another thing to maintain.
 
-The point isn't to collect tools. It's to make better decisions and give people something useful to work with.
+### More about my work
 
-## More about my work
+[**Website**](https://kendallmatthews.com/) · [**Selected Work & Results**](https://kendallmatthews.com/selected-work-results/) · [**About**](https://kendallmatthews.com/about/) · [**LinkedIn**](https://www.linkedin.com/in/kendallmatthews/) · [**Work with Kendall**](https://kendallmatthews.com/technology-advances/)
 
-[Website](https://kendallmatthews.com/) · [Selected Work & Results](https://kendallmatthews.com/selected-work-results/) · [About](https://kendallmatthews.com/about/) · [LinkedIn](https://www.linkedin.com/in/kendallmatthews/) · [Work with Kendall](https://kendallmatthews.com/technology-advances/)
-
-*Public examples are selected for appropriate disclosure. Confidential employer and client information stays private.*
+*I share work that is appropriate to publish. Confidential employer and client information stays private.*
