@@ -1,4 +1,4 @@
-[![Kendall E. Matthews | From Strategy To Proof](assets/kem-github-from-strategy-to-proof.svg)](https://kendallmatthews.com/selected-work-results/)
+[![Kendall E. Matthews | Actual Intelligence — The Unfair Advantage for B2B Growth](https://kendallmatthews.com/wp-content/uploads/2026/11/kem-actual-intelligence-github-banner.png)](https://kendallmatthews.com/selected-work-results/)
 
 ## Hi, I'm Kendall.
 
