@@ -1,4 +1,4 @@
-[![Kendall E. Matthews | Decide what matters. Go build the proof.](assets/profile-banner.svg?v=20261031-kem-identity)](https://kendallmatthews.com/selected-work-results/)
+[![Kendall E. Matthews | From Strategy To Proof](assets/kem-github-from-strategy-to-proof.svg)](https://kendallmatthews.com/selected-work-results/)
 
 ## Hi, I'm Kendall.
 
