@@ -1,13 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Kendall E. Matthews. Decide what matters. Go build the proof.</title>
-<desc id="desc">Dark navy executive portfolio banner with a restrained gold accent and the words Strategy, Technology, People, Execution.</desc>
-<rect width="1200" height="300" rx="14" fill="#172437"/>
-<path d="M0 282H1200" stroke="#2d4258" stroke-width="2"/>
-<rect x="64" y="55" width="52" height="5" rx="2.5" fill="#E6B35F"/>
-<text x="64" y="92" fill="#CAD7E3" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="3">KENDALL E. MATTHEWS</text>
-<text x="64" y="153" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Decide what matters.</text>
-<text x="64" y="204" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Go build the proof.</text>
-<text x="64" y="258" fill="#D4DEE7" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="0.4">STRATEGY   ·   TECHNOLOGY   ·   PEOPLE   ·   EXECUTION</text>
-<g fill="none" stroke="#6F859B" stroke-width="2" opacity="0.45"><circle cx="1030" cy="117" r="45"/><circle cx="1030" cy="117" r="76"/><circle cx="1030" cy="117" r="107"/><path d="M1030 10V224M923 117H1137"/></g>
-<circle cx="1030" cy="117" r="9" fill="#E6B35F"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Kendall E. Matthews — Decide what matters. Go build the proof.</title>
+  <desc id="description">A minimal editorial identity concept. Deep forest green name panel on the left, warm ivory message panel on the right, dark charcoal typography and restrained bronze rule. No animal or generic target mark.</desc>
+  <!-- KEM identity concept, October 31 2026. Proposed palette values, not a finalized design system. -->
+  <rect width="1200" height="300" fill="#F5F2E9"/>
+  <rect width="525" height="300" fill="#18453B"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#171C19"/>
+  <rect x="525" y="44" width="4" height="211" fill="#B89158"/>
+  <text x="54" y="70" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#DDEAE4">LEARN  →  APPLY  →  TRANSFORM</text>
+  <text x="51" y="149" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#FFFFFF">Kendall E.</text>
+  <text x="51" y="220" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#FFFFFF">Matthews</text>
+  <text x="55" y="263" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="1.4" fill="#DDEAE4">MARKETING · GTM · AI · OPERATIONS</text>
+  <text x="583" y="114" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-weight="700" letter-spacing="-0.7" fill="#171C19">Decide what matters.</text>
+  <text x="583" y="177" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-weight="700" letter-spacing="-0.7" fill="#171C19">Go build the proof.</text>
+  <rect x="583" y="211" width="78" height="4" rx="2" fill="#B89158"/>
+  <text x="583" y="255" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.2" fill="#18453B">STRATEGY  ·  TECHNOLOGY  ·  PEOPLE  ·  EXECUTION</text>
 </svg>
